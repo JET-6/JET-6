@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JET-6
 - 👀 I’m interested in Software, Game and Web Development
-- 🌱 I’m currently learning JavaScript and Python. Having recently completed some intro to technology and web development programs over the last ~year.
+- 🌱 I’m currently a Diploma candidate for the BrainStation Web Development program. Having recently completed some intro to technology and web development programs over the last year.
 - 📫 You can reach me on LinkedIn @ https://www.linkedin.com/in/james-thomas6/
 
 <!---
